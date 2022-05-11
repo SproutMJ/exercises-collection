@@ -1,3 +1,6 @@
 [submodule "JavaScript-Everywhere-EX"]
 	path = JavaScript-Everywhere-EX
 	url = https://github.com/SproutMJ/JavaScript-Everywhere-EX.git
+[submodule "Interactive-Web-Page"]
+	path = Interactive-Web-Page
+	url = https://github.com/SproutMJ/Interactive-Web-Page.git
